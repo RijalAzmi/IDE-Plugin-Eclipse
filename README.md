@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![][travis img]][travis]
 
 # eclipse-cs
@@ -30,3 +31,6 @@ Find the installable bundle update site archive `net.sf.eclipsecs-updatesite/tar
 
 [travis]:https://travis-ci.org/checkstyle/eclipse-cs
 [travis img]:https://travis-ci.org/checkstyle/eclipse-cs.svg?branch=master
+=======
+# IDE-Plugin-Eclipse
+>>>>>>> 4978279b4beec13714396efe7d2c00ffe6f1da2a
